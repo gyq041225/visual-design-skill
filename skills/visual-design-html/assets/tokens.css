@@ -1,0 +1,45 @@
+/* 2026-10-26 Figma文字规范快照；bg-white为语义推定，详见foundations.md */
+:root {
+  --primary-1: #0b57d0;
+  --primary-2: #d3e3fd;
+  --primary-3: #041e49;
+  --primary-4: #a8c7fa;
+  --primary-5: #0842a0;
+  --secondary-1: #00639b;
+  --secondary-2: #c2e7ff;
+  --secondary-3: #001d35;
+  --tertiary-1: #146c2e;
+  --tertiary-2: #c4eed0;
+  --tertiary-3: #072711;
+  --error-1: #b3261e;
+  --error-2: #f9dedc;
+  --error-3: #410e0b;
+  --color-text-1: #192024;
+  --color-text-2: #414e54;
+  --color-text-3: #74777f;
+  --color-text-4: rgb(116 119 127 / 25%);
+  --color-fill-1: #f8fafd;
+  --color-fill-2: #f0f4f9;
+  --color-fill-3: #e9eef6;
+  --color-fill-4: #dde3ea;
+  --color-bg-white: #fff;
+  --color-border-1: rgb(116 119 127 / 10%);
+  --color-border-2: rgb(116 119 127 / 50%);
+  --color-border-3: #c4c6cf;
+  --color-border-4: #737f87;
+  --space-mini: 8px;
+  --space-small: 16px;
+  --space-medium: 24px;
+  --space-large: 32px;
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+  --state-hover: .08;
+  --state-focus: .12;
+  --state-pressed: .12;
+  --state-dragged: .16;
+  --font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+}
